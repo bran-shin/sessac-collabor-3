@@ -5,3 +5,7 @@ func b() {
 func a() {
     print("a")
 }
+
+func c() {
+  print("c")
+}
